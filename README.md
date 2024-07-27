@@ -3,7 +3,11 @@
   🚀 I enjoy working with technology and hope to curate a dynamic portfolio that benefits a larger community<br>
   💡 Currently working on building proficiency across programming languages and tech domains through self-study and practice
   </p>
-<h1>Socials</h1>
-  <a href="www.linkedin.com/in/archana-krishna-2a4785278">
-  <img src="https://github.com/syrnxalno/syrnxalno/assets/150210401/db92b8f2-c721-4e10-a656-8e759c30e066" width="30"height="30">
+ <details>	
+ <summary><b>GSSOC(24) Badges</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10 px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   </a>
+</div>
+</details>
