@@ -25,7 +25,7 @@
     </td>
     <td align="center" width="120">
       <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" width="50"/>
-      <br><strong>Apache Tomcat</strong>
+      <br><strong>Tomcat</strong>
     </td>
       <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50"/>
