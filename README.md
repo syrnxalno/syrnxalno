@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  ...but also just about anything that piques my curiosity
+  ...but also just about anything that piques my interest
 </p>
 <br>
 
