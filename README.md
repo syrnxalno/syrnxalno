@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=student=%E2%80%8A=true;deciphering.backend(alchemy);innovate.ignite()+" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=student=%E2%80%8A=true;decipher.backend(alchemy);innovate.ignite()+" alt="Typing Animation" />
 </h3>
   
 - A curious soul on a perpetual quest for brain fuel  
