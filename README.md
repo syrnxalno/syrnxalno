@@ -52,8 +52,11 @@
 </p>
 <br>
 
-## Socials :
+## Also find me on :
 <p align="left">
+  <a href="https://gitlab.com/syrnxalno" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="30"/>
+</a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/archana-krishna-2a19711981e/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
