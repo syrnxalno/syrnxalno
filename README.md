@@ -19,14 +19,16 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
         <br><strong>Java</strong>
       </td>
+      <!--
       <td align="center" width="120">
       <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="50"/>
       <br><strong>Maven</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" width="50"/>
-      <br><strong>Tomcat</strong>
+     <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="50"/>
+     <br><strong>Spring Boot</strong>
     </td>
+      -->
       <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50"/>
         <br><strong>JavaScript</strong>
