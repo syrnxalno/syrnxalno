@@ -24,11 +24,11 @@
       <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="50"/>
       <br><strong>Maven</strong>
     </td>
+      -->
     <td align="center" width="120">
      <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="50"/>
      <br><strong>Spring Boot</strong>
     </td>
-      -->
       <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50"/>
         <br><strong>JavaScript</strong>
