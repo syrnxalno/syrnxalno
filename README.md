@@ -16,44 +16,25 @@
   <table style="border-spacing: 20px;">
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" />
         <br><strong>Java</strong>
       </td>
-      <!--
       <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="50"/>
-      <br><strong>Maven</strong>
-    </td>
-      -->
-    <td align="center" width="120">
-     <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="50"/>
-     <br><strong>Spring Boot</strong>
-    </td>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50"/>
+        <img src="https://cdn.simpleicons.org/spring/6DB33F" width="42" />
+        <br><strong>Spring Boot</strong>
+      </td>
+     <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" />
         <br><strong>JavaScript</strong>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50"/>
+     <td align="center" width="120">
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42" />
         <br><strong>Node.js</strong>
       </td>
-      <!--
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="50"/>
-        <br><strong>Firebase</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50"/>
-        <br><strong>MongoDB</strong>
-      </td>
-      -->
     </tr>
   </table>
 </p>
 
-<p align="center">
-  ...but also just about anything that piques my interest
-</p>
 <br>
 
 ## Also find me on :
