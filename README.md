@@ -16,23 +16,24 @@
   <table style="border-spacing: 20px;">
     <tr>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" />
         <br><strong>Java</strong>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/spring/6DB33F" width="42" />
+        <img src="https://cdn.simpleicons.org/spring/6DB33F" width="30" />
         <br><strong>Spring Boot</strong>
       </td>
      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" />
         <br><strong>JavaScript</strong>
       </td>
      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30" />
         <br><strong>Node.js</strong>
       </td>
     </tr>
   </table>
+ Although centred around these ecosystems, I dabble across a variety of tools—exploring everything from frameworks to obscure CLI utilities—in an ongoing quest to stay adaptable.
 </p>
 
 <br>
