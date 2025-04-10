@@ -37,6 +37,7 @@
         <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50"/>
         <br><strong>Node.js</strong>
       </td>
+      <!--
       <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="50"/>
         <br><strong>Firebase</strong>
@@ -45,6 +46,7 @@
         <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50"/>
         <br><strong>MongoDB</strong>
       </td>
+      -->
     </tr>
   </table>
 </p>
