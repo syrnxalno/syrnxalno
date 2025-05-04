@@ -13,26 +13,37 @@
 
 ## I primarily work with :
 <p align="center">
-  <table style="border-spacing: 20px;">
+<table style="border-spacing: 10px; text-align: center; width: 100%; margin-top: 20px;">
     <tr>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" />
-        <br><strong>Java</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/spring/6DB33F" width="30" />
-        <br><strong>Spring Boot</strong>
-      </td>
-     <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" />
-        <br><strong>JavaScript</strong>
-      </td>
-     <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30" />
-        <br><strong>Node.js</strong>
-      </td>
+        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30" />
+            <br><strong style="font-size: 12px; color: #333;">API Design</strong>
+        </td>
+        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+            <br><strong style="font-size: 12px; color: #333;">Data Modeling</strong>
+        </td>
+        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
+            <br><strong style="font-size: 12px; color: #333;">Version Control</strong>
+        </td>
+<!--         <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center">
+           <img src="https://unpkg.com/lucide-static/icons/workflow.svg" alt="Event Icon" width="30" />
+            <br><strong style="font-size: 12px; color: #333;">Event-Driven Design</strong>
+        </td> -->
+        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+            <img src="https://img.icons8.com/color/48/lock--v1.png" width="30"/>
+            <br><strong style="font-size: 12px; color: #333;">Authentication</strong>
+        </td>
+        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+            <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="30"/>
+            <br><strong style="font-size: 12px; color: #333;">Analytics</strong>
+        </td>
     </tr>
-  </table>
+</table>
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syrnxalno&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="syrnxalno's GitHub Stats" />
  Although centred around these ecosystems, I dabble across a variety of tools—exploring everything from frameworks to obscure CLI utilities—in an ongoing quest to stay adaptable.
 </p>
 
