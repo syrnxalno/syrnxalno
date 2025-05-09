@@ -17,31 +17,32 @@
   <tr>
     <!-- API Design -->
     <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-      <img src="https://img.icons8.com/ios-filled/50/d0d6e2/api.png" width="30" alt="API Design" />
+      <img src="https://img.icons8.com/ios-filled/50/b0b0b0/api.png" width="30" alt="API Design" />
       <br><strong style="font-size: 12px; color: #333;">API Design</strong>
     </td>
     <!-- Data Modeling -->
     <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-      <img src="https://img.icons8.com/ios-filled/50/d1d9e6/database.png" width="30" alt="Data Modeling" />
+      <img src="https://img.icons8.com/ios-filled/50/b0b0b0/database.png" width="30" alt="Data Modeling" />
       <br><strong style="font-size: 12px; color: #333;">Data Modeling</strong>
     </td>
     <!-- Microservices -->
     <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-      <img src="https://img.icons8.com/ios-filled/50/c4e0e5/layers.png" width="30" alt="Microservices" />
+      <img src="https://img.icons8.com/ios-filled/50/b0b0b0/layers.png" width="30" alt="Microservices" />
       <br><strong style="font-size: 12px; color: #333;">Microservices</strong>
     </td>
     <!-- Authentication -->
     <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-      <img src="https://img.icons8.com/ios-filled/50/d8d9ec/lock.png" width="30" alt="Authentication" />
+      <img src="https://img.icons8.com/ios-filled/50/b0b0b0/lock.png" width="30" alt="Authentication" />
       <br><strong style="font-size: 12px; color: #333;">Authentication</strong>
     </td>
     <!-- Analytics -->
     <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-      <img src="https://img.icons8.com/ios-filled/50/b8d6d8/combo-chart.png" width="30" alt="Analytics" />
+      <img src="https://img.icons8.com/ios-filled/50/b0b0b0/combo-chart.png" width="30" alt="Analytics" />
       <br><strong style="font-size: 12px; color: #333;">Analytics</strong>
     </td>
   </tr>
 </table>
+
 
 
 
