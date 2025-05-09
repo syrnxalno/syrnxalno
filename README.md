@@ -14,33 +14,35 @@
 ## I primarily work with :
 <p align="center">
 <table style="border-spacing: 10px; text-align: center; width: 100%; margin-top: 20px;">
-    <tr>
-        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30" />
-            <br><strong style="font-size: 12px; color: #333;">API Design</strong>
-        </td>
-        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
-            <br><strong style="font-size: 12px; color: #333;">Data Modeling</strong>
-        </td>
-        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
-            <br><strong style="font-size: 12px; color: #333;">Version Control</strong>
-        </td>
-<!--         <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center">
-           <img src="https://unpkg.com/lucide-static/icons/workflow.svg" alt="Event Icon" width="30" />
-            <br><strong style="font-size: 12px; color: #333;">Event-Driven Design</strong>
-        </td> -->
-        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-            <img src="https://img.icons8.com/color/48/lock--v1.png" width="30"/>
-            <br><strong style="font-size: 12px; color: #333;">Authentication</strong>
-        </td>
-        <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
-            <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="30"/>
-            <br><strong style="font-size: 12px; color: #333;">Analytics</strong>
-        </td>
-    </tr>
+  <tr>
+    <!-- API Design -->
+    <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+      <img src="https://img.icons8.com/ios-filled/50/d0d6e2/api.png" width="30" alt="API Design" />
+      <br><strong style="font-size: 12px; color: #333;">API Design</strong>
+    </td>
+    <!-- Data Modeling -->
+    <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+      <img src="https://img.icons8.com/ios-filled/50/d1d9e6/database.png" width="30" alt="Data Modeling" />
+      <br><strong style="font-size: 12px; color: #333;">Data Modeling</strong>
+    </td>
+    <!-- Microservices -->
+    <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+      <img src="https://img.icons8.com/ios-filled/50/c4e0e5/layers.png" width="30" alt="Microservices" />
+      <br><strong style="font-size: 12px; color: #333;">Microservices</strong>
+    </td>
+    <!-- Authentication -->
+    <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+      <img src="https://img.icons8.com/ios-filled/50/d8d9ec/lock.png" width="30" alt="Authentication" />
+      <br><strong style="font-size: 12px; color: #333;">Authentication</strong>
+    </td>
+    <!-- Analytics -->
+    <td style="padding: 10px; border-radius: 8px; background-color: #f7f7f7;" align="center" width="150" height="90">
+      <img src="https://img.icons8.com/ios-filled/50/b8d6d8/combo-chart.png" width="30" alt="Analytics" />
+      <br><strong style="font-size: 12px; color: #333;">Analytics</strong>
+    </td>
+  </tr>
 </table>
+
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syrnxalno&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="syrnxalno's GitHub Stats" />
