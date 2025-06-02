@@ -43,10 +43,6 @@
   </tr>
 </table>
 
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syrnxalno&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="syrnxalno's GitHub Stats" />
  Although centred around these ecosystems, I dabble across a variety of tools—exploring everything from frameworks to obscure CLI utilities—in an ongoing quest to stay adaptable.
 </p>
 
