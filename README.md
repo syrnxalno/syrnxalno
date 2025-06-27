@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there! I'm Archana Krishna
+  Hey there! I'm Archana
 </h1>
 
 <h3 align="center">
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
- Although centred around these ecosystems, I dabble across a variety of tools—exploring everything from frameworks to obscure CLI utilities—in an ongoing quest to stay adaptable.
+ Although centred around these ecosystems, I dabble across a variety of tools - exploring everything from frameworks to obscure CLI utilities in an ongoing quest to stay adaptable.
 </p>
 
 <br>
